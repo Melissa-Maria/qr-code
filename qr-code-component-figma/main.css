@@ -11,23 +11,22 @@ body {
 
 .content-wrapper {
     background: #ffffff;
-    /* margin: 16px; */
+    margin: 85px 25px 85px 35px;
+    padding: 0;
     width: 80%;
-    /* float: center; */
-    margin-top: 86px;
-    margin-right: 26px;;
+    border-radius: 3%;
 }
 
 img {
     width: 289px;
     height: 289px;
-    margin: 0;
-    padding: 18px 18px 0 18px;
+    margin: 20px 16px;
+    border-radius: 3%;
 }
 
 .text {
     width: 80%;
-    padding: 0 37px 49px 37px;
+    padding: 0 37px 29px 37px;
 }
 
 h1 {
@@ -38,4 +37,3 @@ h1 {
     font-size: 18px;
     color: #1f3251;
 }
-
